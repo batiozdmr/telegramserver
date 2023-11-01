@@ -12,8 +12,7 @@ import time
 # Botunuzun token'ını buraya ekleyin
 TOKEN = '6489901128:AAEoNfONPJaJ69w-jW0E0O-4CxzLa1c96S8'
 # Botun çalıştığı sohbetin chat_id'sini ayarlayın
-CHAT_ID = '-4084637440'
-# CHAT_ID = '-4078250422'
+CHAT_ID = '-4078250422'
 
 # Bot nesnesini oluşturun
 bot = telebot.TeleBot(TOKEN)
